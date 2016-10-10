@@ -11,5 +11,9 @@
 - translate.py: Google Translate API kullanımını içerir </br>
     
     Bu konudaki blog yazıma [buradan](http://www.oguzpamuk.com/2016/10/01/python-ve-google-translate/) erişebilirsiniz.
+    
+- randomexample.py: Python random modülünü tanıtmak amacıyla oluşturulmuştur
+    Bu konudaki blog yazıma [buradan](http://www.oguzpamuk.com/2016/10/09/python-random-modulu/) erişebilirsiniz.
+    
 
 
