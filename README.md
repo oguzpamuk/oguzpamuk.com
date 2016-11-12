@@ -15,5 +15,13 @@
 - randomexample.py: Python random modülünü tanıtmak amacıyla oluşturulmuştur
     Bu konudaki blog yazıma [buradan](http://www.oguzpamuk.com/2016/10/09/python-random-modulu/) erişebilirsiniz.
     
+- sha.py: Python hashlib modülünü tanıtmak amacıyla oluşturulmuştur.SHA hash fonksiyonlarını içerir.
+    Bu konudaki blog yazıma [buradan](http://www.oguzpamuk.com/2016/11/12/python-ile-ozetleme-fonksiyonlari-hash-function/) erişebilirsiniz.
+
+- md5Hash.py: Python hashlib modülünü tanıtmak amacıyla oluşturulmuştur. MD5 hash fonksiyonlarını içerir.
+    Bu konudaki blog yazıma [buradan](http://www.oguzpamuk.com/2016/11/12/python-ile-ozetleme-fonksiyonlari-hash-function/) erişebilirsiniz.
+    
+
+    
 
 
